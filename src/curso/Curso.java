@@ -33,14 +33,12 @@ public class Curso  {
         LibroCalificaciones libroCalificaciones = new LibroCalificaciones(null);
         LibroCalificaciones libroCiencias = new LibroCalificaciones(null);
         
-        JOptionPane.showMessageDialog(null, "BIENVENIDO A JAVA");
+        JOptionPane.showMessageDialog(null, "BIENVENIDO A JAVA SE");
        
         String nombre = JOptionPane.showInputDialog("Cuale es su Nombre");
         
         System.out.println(nombre);
-        
-        
-        
+              
         Scanner teclado = new Scanner(System.in);
         int edad;
         System.out.println("Que edad tienes");
