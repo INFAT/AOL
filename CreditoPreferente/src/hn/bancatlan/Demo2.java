@@ -11,6 +11,6 @@ package hn.bancatlan;
  */
 public class Demo2 {
     public void Demo2() {
-    
+        System.out.print("Demo2");
 }
 }
